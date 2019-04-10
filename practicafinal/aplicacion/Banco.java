@@ -14,6 +14,7 @@ public class Banco
     Constantes.ventanaCrearUsuario = new JVentanaCrearUsuario();
     Constantes.ventanaMenu = new JVentanaMenu();
   }
+  // Hola laura
 
 
 }
